@@ -1,0 +1,46 @@
+{
+  "produtos": [
+  {
+    "id": 4,
+    "nome": "Samsung J7 Prime TV",
+    "quantidade": 3.00,
+    "valor": 1200.99
+  },
+  {
+    "id": 3,
+    "nome": "Samsung J2 Plus",
+    "quantidade": 1.00,
+    "valor": 755.37
+  },
+  {
+    "id": 7,
+    "nome": "Samsung J5 TV",
+    "quantidade": 2.00,
+    "valor": 817.11
+  },
+  {
+    "id": 1,
+    "nome": "Samsung J5",
+    "quantidade": 4.00,
+    "valor": 751.00
+  },
+  {
+    "id": 11,
+    "nome": "Samsung J1",
+    "quantidade": 4.00,
+    "valor": 669.00
+  },
+  {
+    "id": 5,
+    "nome": "Samsung J2 Prime TV",
+    "quantidade": 3.00,
+    "valor": 777.00
+  },
+  {
+    "id": 2,
+    "nome": "Samsung J7",
+    "quantidade": 2.00,
+    "valor": 600.00
+  }
+]
+}
